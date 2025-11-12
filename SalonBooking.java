@@ -211,3 +211,4 @@ public class SalonBooking extends JFrame implements ActionListener {
         new SalonBooking();
     }
 }
+
